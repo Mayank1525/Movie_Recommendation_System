@@ -1,6 +1,6 @@
 # 🎬 MayoFlix: Intelligent Movie Recommendation System
 
-MayoFlix is a machine learning–driven movie recommendation system designed to deliver personalized movie suggestions based on content similarity. The system leverages **Natural Language Processing (NLP)** techniques and **vector similarity metrics** to identify and recommend movies aligned with user preferences.
+MayoFlix is a machine learning–driven movie recommendation system designed to deliver personalized movie suggestions based on content similarity. The system leverages **vector similarity metrics** to identify and recommend movies aligned with user preferences.
 
 ---
 
@@ -20,7 +20,7 @@ MayoFlix is a machine learning–driven movie recommendation system designed to 
 * **Data Processing:** Pandas, NumPy
 * **Machine Learning:** Scikit-learn
 * **Frontend / UI:** Streamlit
-* **Core Techniques:** NLP, Feature Vectorization, Similarity Analysis
+* **Core Techniques:** Feature Vectorization, Similarity Analysis
 
 ---
 
