@@ -76,3 +76,5 @@ if st.button("Recommend"):
         with cols[i]:
             st.image(posters[i], width=200)
             st.caption(names[i])
+
+
