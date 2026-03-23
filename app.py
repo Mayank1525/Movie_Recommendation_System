@@ -53,7 +53,7 @@ def recommend(movie):
 
 # ---------------- LOAD DATA ----------------
 movies = pickle.load(open('movie_list.pkl', 'rb'))
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('similarity_small.pkl', 'rb'))
 
 movie_list = movies['title'].values
 
